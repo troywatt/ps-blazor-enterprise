@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Startup" type="CompoundRunConfigurationType">
+    <toRun name="BethanysPieShopHRM.Api" type="LaunchSettings" />
+    <toRun name="BethanysPieShopHRM.UI" type="LaunchSettings" />
+    <method v="2" />
+  </configuration>
+</component>
